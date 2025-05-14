@@ -1,1 +1,1 @@
-# Ini adalah repositori untuk latihan membuat branch baru di GitHub.
+# Menggabungkan perubahandari branch development ke branch main.
