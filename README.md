@@ -1,1 +1,1 @@
-# Menggabungkan perubahandari branch development ke branch main
+# Menggabungkan perubahan dari branch development ke branch main
